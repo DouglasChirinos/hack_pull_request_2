@@ -5,7 +5,7 @@
 |----------------------------------------------------------------------|----------------------------------------------------------|
 |[Circuito Alfa](https://github.com/DouglasChirinos/hg_2_alfa.git)     | Propietario del Circuito Douglas Chirinos                |
 |[Bravo](https://github.com/DouglasChirinos/hg_2_bravo.git)            | Actualizacion repositorio bravo                          |
-|[Charlie](https://github.com/DouglasChirinos/hg_2_charlie.git)        | Actualizacion repositorio charlie                        |
+|[Charlie](https://github.com/DouglasChirinos/hg-2-charlie.git)        | Actualizacion repositorio charlie                        |
 |[echo](https://github.com/DouglasChirinos/hg_2_echo.git)              | Actualizacion repositorio echo                           |
 
 `
